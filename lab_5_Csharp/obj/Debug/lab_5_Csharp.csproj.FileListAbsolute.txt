@@ -1,0 +1,11 @@
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\bin\Debug\lab_5_Csharp.exe.config
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\bin\Debug\lab_5_Csharp.exe
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\bin\Debug\lab_5_Csharp.pdb
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\obj\Debug\lab_5_Csharp.csprojAssemblyReference.cache
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\obj\Debug\lab_5_Csharp.Properties.Resources.resources
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\obj\Debug\lab_5_Csharp.csproj.GenerateResource.cache
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\obj\Debug\lab_5_Csharp.csproj.CoreCompileInputs.cache
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\obj\Debug\lab_5_Csharp.exe
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\obj\Debug\lab_5_Csharp.pdb
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\obj\Debug\lab_5_Csharp.Form1.resources
+B:\С#отчеты\lab_5_Csharp\lab_5_Csharp\obj\Debug\lab_5_Csharp.GraphicsForm.resources
